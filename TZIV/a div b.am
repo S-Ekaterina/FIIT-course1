@@ -1,0 +1,16 @@
+// a div b (dolna cela cast a / b)
+
+a1a1a1a1 a1a1a1
+a2a2a2
+
+(a4 a0 s2)2 // kopia r2 do r4
+(a2 s0)0    // obnov r2
+s4          // r4 = r2 - 1
+
+(s1 s4)4    // uprava r1 na dolnu cast
+
+(
+	(s1 a0 s2)2 // odcitovanie r1 - r2
+	(a2 s0)0    // obnovenie r2
+	a3          // pocitaj kolkokrat odcitujes
+)1
