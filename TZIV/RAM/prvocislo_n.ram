@@ -1,0 +1,32 @@
+// n je prvocislo?
+// zlozitost
+// 12n + 16
+// 4
+read 1
+load 1
+sub =1
+store 2
+load 4
+add =1
+store 4
+
+loop:
+load 1
+div 2
+store 3
+mul 2
+sub 1
+jzero end
+load 2
+sub =1
+store 2
+sub =1
+jzero end_2
+jgzero loop
+
+end:
+write 0
+halt
+
+end_2:
+write 4

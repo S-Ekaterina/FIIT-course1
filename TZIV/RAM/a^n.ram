@@ -1,0 +1,18 @@
+// a^n
+read 2
+read 1
+load =1
+store 3
+
+loop:
+load 2
+mul 3
+store 3
+
+load 1
+sub =1
+store 1
+
+jgzero loop
+
+write 3 

@@ -1,0 +1,22 @@
+// n!
+read 1 // citat do 1 registra
+load 1 // dat do akk
+jzero end_2
+
+loop:
+sub =1 // odciat 1
+jzero end
+store 2 // zapicat s akk do registra 2
+mul 1   // mnozit na register 1
+store 1 // zapisat do 1 registra
+
+load 2
+jump loop
+
+end:
+write 1
+halt
+
+end_2:
+load =1
+write 0

@@ -1,0 +1,38 @@
+// 2^2^n
+load =2 // a
+store 4
+load =2 // b
+store 2
+read 1
+load =1
+store 3 // n
+jgzero loop
+
+op:
+load 3
+store 1
+load 4
+jzero end
+store 2
+load =1
+store 3
+load =0
+store 4
+jgzero loop
+
+loop:
+load 2
+mul 3
+store 3
+
+load 1
+sub =1
+store 1
+
+jgzero loop
+jzero op
+
+end:
+write 3 
+// 7 + n × (11 + 7b)
+// 4

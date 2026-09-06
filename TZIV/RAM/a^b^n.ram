@@ -1,0 +1,31 @@
+// a^b^n
+read 4 // a
+read 2 // b
+read 1
+load =1
+store 3
+jgzero loop
+
+op:
+load 3
+store 1
+load 4
+store 2
+load =1
+store 3
+jgzero loop
+
+loop:
+load 2
+mul 3
+store 3
+
+load 1
+sub =1
+store 1
+
+jgzero loop
+jzero op
+
+end:
+write 3 

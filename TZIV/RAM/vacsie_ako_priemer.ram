@@ -1,0 +1,51 @@
+// n cisiel > priemer
+// zlozitost:
+// 10 + 5n + 7n + 7n = 19n + 10
+// n + 3
+read 9999 // n
+load 9999
+store 9998 // n
+
+zapis:
+read *9998
+load 9998
+sub =1
+store 9998
+jgzero zapis
+
+load 9999
+store 9998 // n
+
+priemer:
+load 9997
+add *9998
+store 9997
+load 9998
+sub =1
+store 9998
+jgzero priemer
+
+load 9997
+div 9999
+store 9997
+
+load 9999
+store 9998 // n
+
+vypis:
+load *9998
+sub 9997
+jgzero wr
+jump rr
+
+wr:
+write *9998
+jump rr
+
+rr:
+load 9998
+sub =1
+store 9998
+jgzero vypis
+
+halt

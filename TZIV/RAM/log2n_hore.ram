@@ -1,0 +1,25 @@
+// log2(n)
+// 9n + 10
+// 3
+load =2
+store 1
+read 2
+load 2
+sub =1
+store 2
+
+loop:
+load 2
+div 1
+store 2
+load 3
+add =1
+store 3
+load 2
+sub =1
+jgzero loop
+
+load 3
+add =1
+store 3
+write 3
