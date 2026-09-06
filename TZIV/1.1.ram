@@ -1,0 +1,9 @@
+// (a*b)/2
+read 1
+read 2
+
+load 2
+add 1
+div =2
+
+write 0
