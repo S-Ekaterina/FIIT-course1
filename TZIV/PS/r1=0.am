@@ -1,0 +1,12 @@
+// if r1 = 0 then M (M bude  a2a2)
+
+a1a1a1
+
+(a5 a0 s1)1 // zaloha r1 do r5
+(a1 s0)0
+
+a4          // pomocny reg. nastaveny na 1
+(a4 s1)1    // if r1 > 0 pomocny reg. bude 0
+(s4 a2a2)4 // if pomocny reg. > 0 then a2a2
+
+(a1 s5)5    // obnovenie r1
