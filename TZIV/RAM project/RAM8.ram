@@ -1,0 +1,22 @@
+// 8. Geometricka postupnost
+// 1 cislo - A - prvy clen
+// 2 cislo - Q - kvocent (max 20)
+// 3 cislo - N clenov (max 100000)
+read 1
+read 2
+read 3
+
+loop:
+load 3
+jzero end
+write 1
+load 3
+sub =1
+store 3
+load 1
+mul 2
+store 1
+jump loop
+
+end:
+halt
