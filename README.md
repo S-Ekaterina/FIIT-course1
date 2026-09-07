@@ -4,6 +4,8 @@
 :yellow_circle: medium                  :open_mouth: not fun
 :red_circle: hard
 
+**Сложность:** 🟢 `Chill` | 🟡 `Medium` | 🔴 `Hard`  
+
 
 <details>
 <summary>:yellow_circle::sunglasses: DSA (Datové štruktúry a algoritmy)</summary>
