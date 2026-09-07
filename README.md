@@ -2,9 +2,9 @@
 
 > :green_circle: `chill` | :yellow_circle: `medium` | :red_circle: `hard`
 > 
-> :sunglasses: `fun`     | :open_mouth: `not fun`
-
-
+> :sunglasses: `fun`     | :open_mouth: `not fun`  
+  
+  
 <details>
 <summary>:yellow_circle::sunglasses: DSA (Datové štruktúry a algoritmy)</summary>
   Predmet je zameraný na návrh a implementáciu efektívnych algoritmov a dátových štruktúr, ako sú zoznamy, zásobníky, fronty, stromy, grafy, haldy a hašovacie tabuľky. Zaoberá sa tiež algoritmami vyhľadávania a triedenia.
