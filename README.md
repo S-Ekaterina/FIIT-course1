@@ -1,10 +1,10 @@
 # FIIT-course1
 
-:green_circle: chill                    :sunglasses: fun
-:yellow_circle: medium                  :open_mouth: not fun
-:red_circle: hard
+:green_circle: `chill` | :yellow_circle: `medium` | :red_circle: `hard`
 
-**Сложность:** 🟢 `Chill` | 🟡 `Medium` | 🔴 `Hard`  
+:sunglasses: `fun` | :open_mouth: `not fun`
+
+**Сложность:**
 
 
 <details>
