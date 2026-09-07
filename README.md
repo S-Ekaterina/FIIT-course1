@@ -8,8 +8,7 @@
   
 <details>
 <summary>:yellow_circle::sunglasses: DSA (Datové štruktúry a algoritmy)</summary>
-&nbsp;&nbsp;71/100  
-&nbsp;<br> <br/>
+&nbsp;&nbsp;71/100<br>
 &nbsp;&nbsp;Predmet je zameraný na návrh a implementáciu efektívnych algoritmov a dátových štruktúr, ako sú zoznamy, zásobníky, fronty, stromy, grafy, haldy a hašovacie tabuľky. Zaoberá sa tiež algoritmami vyhľadávania a triedenia.
 </details>
 
