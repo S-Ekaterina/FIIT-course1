@@ -1,4 +1,4 @@
-#Data Structures and Algorithms (Datové štruktúry a algoritmy)
+# Data Structures and Algorithms (Datové štruktúry a algoritmy)
 
   This course was a major turning point in my programming journey. We entered this class right after mastering the syntax and grammar of the C language, which shifted our focus from simply "how to write code" to "how to write efficient code."
   
