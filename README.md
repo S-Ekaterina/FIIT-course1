@@ -2,8 +2,8 @@
 
 :green_circle: `chill` | :yellow_circle: `medium` | :red_circle: `hard`
 
-:sunglasses: `fun`     | :open_mouth: `not fun` <br/>
-
+:sunglasses: `fun`     | :open_mouth: `not fun` <br/>  
+  
 
 <details>
 <summary>:yellow_circle::sunglasses: DSA (Datové štruktúry a algoritmy)</summary>
