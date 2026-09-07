@@ -1,5 +1,8 @@
 # Data Structures and Algorithms
 
+> [!TIP]
+> If the code works, that's only half the battle - it also needs to be efficient!
+
 &nbsp;&nbsp;This course was a major turning point in my programming journey. We entered this class right after mastering the syntax and grammar of the C language, which shifted our focus from simply "how to write code" to "how to write efficient code."
   
 &nbsp;&nbsp;Every week, we received assignments that had to be submitted to an automated grading platform. This tester checked not only the correctness of our solution but also its execution speed and memory consumption. It was a great challenge because it taught me the most crucial aspect of software engineering: algorithms must be both accurate and highly optimized in terms of Time and Space Complexity.  
