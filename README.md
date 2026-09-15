@@ -37,3 +37,9 @@
 &nbsp;&nbsp;The course focuses on the theoretical foundations of computer science, particularly formal languages, grammars, automata, computability theory, and computational complexity. Students learn about abstract computational models, such as finite automata and Turing machines.
 </details>
 
+<details>
+<summary>:red_circle::sunglasses: UMINT (Artificial intelligence)</summary>
+&nbsp;&nbsp;76/100<br>
+&nbsp;&nbsp;This course covers the core concepts of artificial intelligence, including neural and deep networks, genetic algorithms, fuzzy logic, and expert systems. It focuses on combining theoretical principles with hands-on software implementation to solve real-world engineering and analytical problems.
+</details>
+
